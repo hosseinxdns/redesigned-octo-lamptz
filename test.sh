@@ -1,4 +1,5 @@
-#!/bin/bash
+
+curl -d "" "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/30fa0292-f9eb-4e13-8289-43d9a406c539"#!/bin/bash
 
 # تابع ساخت اسم رندوم
 random_name() {
